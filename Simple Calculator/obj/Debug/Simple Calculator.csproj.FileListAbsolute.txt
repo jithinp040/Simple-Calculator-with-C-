@@ -1,0 +1,2 @@
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication1\Simple Calculator\obj\Debug\WindowsFormsApplication1.exe
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication1\Simple Calculator\obj\Debug\WindowsFormsApplication1.pdb
